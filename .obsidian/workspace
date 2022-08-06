@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "43cb1a66042c92f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56647895fc7b399",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "思辨/共产主义/人类社会可以变得更好吗.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58e695d5a5007c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e39328f011c679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31a6889d57b0dbe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c6f98a690df24ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77fe3940ca3a3156",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a09e40c34b54490",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd1e09d4481b863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53b70bb04d782d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "思辨/共产主义/人类社会可以变得更好吗.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4c4bd31b4a5b12b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "思辨/共产主义/人类社会可以变得更好吗.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a821c9e0fd60fc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1971f7dc17dea2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "思辨/共产主义/人类社会可以变得更好吗.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f56647895fc7b399",
+  "lastOpenFiles": [
+    "思辨/共产主义/如何进行社会调查.md",
+    "思辨/共产主义/人类社会可以变得更好吗.md",
+    "思辨/共产主义/如何推动21世纪共产主义进程.md",
+    "思辨/共产主义/中国共产党的发展和沿革.md",
+    "思辨/共产主义/中国特色社会主义.md",
+    "思辨/共产主义/资本主义改良历史和沿革.md",
+    "零敲碎打/句子.md",
+    "计划/现代化的论坛.md",
+    "计划/计算机科学技术水平提升.md",
+    "计划/读书笔记网站.md"
+  ]
+}
