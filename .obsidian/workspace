@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "思辨/共产主义/和朋友介绍如何解决住宅问题.md",
+            "file": "读书笔记/马列毛/列宁-国家与革命.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思辨/共产主义/和朋友介绍如何解决住宅问题.md",
+                "file": "读书笔记/马列毛/列宁-国家与革命.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思辨/共产主义/和朋友介绍如何解决住宅问题.md",
+                "file": "读书笔记/马列毛/列宁-国家与革命.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思辨/共产主义/和朋友介绍如何解决住宅问题.md"
+                "file": "读书笔记/马列毛/列宁-国家与革命.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "f56647895fc7b399",
   "lastOpenFiles": [
+    "思辨/共产主义/和朋友介绍如何解决住宅问题.md",
     "思辨/共产主义/人类社会可以变得更好吗.md",
     "读书笔记/马列毛/列宁-国家与革命.md",
     "思辨/共产主义/如何进行社会调查.md",
@@ -138,7 +139,6 @@
     "思辨/共产主义/中国特色社会主义.md",
     "思辨/共产主义/资本主义改良历史和沿革.md",
     "零敲碎打/句子.md",
-    "计划/现代化的论坛.md",
-    "计划/计算机科学技术水平提升.md"
+    "计划/现代化的论坛.md"
   ]
 }
